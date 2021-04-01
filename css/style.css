@@ -1,1 +1,21 @@
-/* Styles for your homework one assignment */
+body {
+    background-color: skyblue;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+}
